@@ -1,0 +1,1 @@
+<php class constGuards { const ADMIN='admid' ; const Client='client' ; const Seller='seller' ; } class constDefaults { const tokenExpiredMinutes=5; }
